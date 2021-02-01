@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "792661505137",
+    "firebase_url": "https://healthy-meals-9a4d8.firebaseio.com",
+    "project_id": "healthy-meals-9a4d8",
+    "storage_bucket": "healthy-meals-9a4d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:792661505137:android:a915c6c72e7f97514217d0",
+        "android_client_info": {
+          "package_name": "com.meals.healthymeals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "792661505137-iclmafbihsnoh3b2gi1laet8cvvk94ga.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6689_tdmZeVBVlIq6b_RoWGzAyqysbe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "792661505137-iclmafbihsnoh3b2gi1laet8cvvk94ga.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
